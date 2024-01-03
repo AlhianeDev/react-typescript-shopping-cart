@@ -1,31 +1,88 @@
-# React + TypeScript + Vite
+## Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### A simple React + Typescript App
 
-Currently, two official plugins are available:
+![alt text](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/github-imgs/banner.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View the local installation in the [CONTRUBUTING.md.](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/CONTRUBUTING.md)
 
-## Expanding the ESLint configuration
+***
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+#### Features:
 
-- Configure the top-level `parserOptions` property like this:
+- You can Add, Delete or even Update an item from Cart.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- User-friendly.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-"# react-typescript-shopping-cart" 
+- LocalStorage For Storage Supported.
+
+- Responsive, on all devices.
+
+- And more ....
+
+***
+
+#### Features to be added:
+
+- Register and Login Supported.
+
+- Dark Mode.
+
+- Search Bar.
+
+- Themes: Users can choose among different themes
+
+- And more ...
+
+***
+
+#### References:
+
+- React Docs: [react-dev](https://react.dev/)
+
+- TypeScript Docs: [typescriptlang](https://www.typescriptlang.org/docs/)
+
+- Bootstrap: [getbootstrap](https://getbootstrap.com/)
+
+- Use Bootstrap in React: [react-bootstrap](https://react-bootstrap.netlify.app/)
+
+* Color Palettes: [Color Palettes](https://colorhunt.co/)
+
+***
+
+### Skills:
+
+- React - Hooks.
+
+- Context Api.
+
+- TypeScript.
+
+- Bootstrap (react-bootstrap)
+
+***
+
+#### WEBSITE DEMO:
+
+![alt text](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/github-imgs/img-1.png)
+
+***
+
+![alt text](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/github-imgs/img-2.png)
+
+***
+
+![alt text](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/github-imgs/img-3.png)
+
+***
+
+![alt text](https://github.com/AlhianeDev/react-typescript-shopping-cart/blob/main/github-imgs/img-4.png)
+
+***
+
+#### Author:
+
+*   Alhiane Lahcen (Gmail): [alhiane.linkedin@gmail.com](mailto:alhiane.linkedin@gmail.com)
+
+*   Alhiane Lahcen (LinkedIn): [LinkedIn](https://www.linkedin.com/in/lahcen-alhiane-99564b2a6/)
+*   
